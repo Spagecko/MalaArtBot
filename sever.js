@@ -5,12 +5,14 @@ const firebase = require("firebase");
 const TOKEN = "NDc3MTQ4OTU0NTcyNzUwODQ4.Dk37UA.5IMr9NamZ2SupzvreFXLDeGjhMU";
 
 var config = {
-    apiKey: "AIzaSyBCfn_iJEK6B9nb7y3UPwmN8WiGxFbLBTw",
-    authDomain: "maladb-95f7c.firebaseapp.com",
-    databaseURL: "https://maladb-95f7c.firebaseio.com",
-    projectId: "maladb-95f7c",
-    storageBucket: "maladb-95f7c.appspot.com",
-    messagingSenderId: "657184949114"
+     // this is censored to ensure privacy
+    apiKey: ,
+    authDomain:
+    databaseURL: 
+    projectId: 
+    storageBucket: 
+    messagingSenderId: 
+    // this is censored to ensure privacy
   };
   firebase.initializeApp(config);
 
